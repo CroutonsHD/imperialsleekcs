@@ -57,7 +57,6 @@ var l_bgImages = [
 	"Darth-Vader-1920x1080.jpg",
 	"stormtrooper-1920x1080-stormtrooper-5634.jpg",
 	"stormtrooper-going-to-war-wallpaper-5354.jpg",
-	"th.jpg",
 	"ws_Darth_Vader_1920x1080.jpg",
 ];
 
